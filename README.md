@@ -31,7 +31,7 @@ This project leverages AI to **automate deforestation detection** using satellit
 ---
 
 ## 🧩 Dataset
-**Dataset Source:** [Amazon Rainforest Satellite Images - Kaggle](https://www.kaggle.com/datasets/piyushkumar18/amazon-rainforest-satellite-images)  
+**Dataset Source:** [Amazon Rainforest Satellite Images - Kaggle](https://www.kaggle.com/datasets/akhilchibber/deforestation-detection-dataset?utm_source=chatgpt.com)  
 
 This dataset contains labeled satellite images of forest regions and deforested areas, suitable for training image classification models.
 
